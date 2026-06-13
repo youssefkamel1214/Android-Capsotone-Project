@@ -17,5 +17,5 @@ This Android application is the final project of the Coursera Capstone by META. 
 Android SDK
 Android Build Tools
 
-## License
-This project is licensed under the MIT License - see the [License.md](LICENSE.md) file for details.
+## Url
+https://github.com/youssefkamel1214/Android-Capsotone-Project
